@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/quyenanhpt/catkin_ws/src/navigation-noetic-devel/amcl/include/**",
+        "/home/quyenanhpt/catkin_ws/src/navigation-noetic-devel/base_local_planner/include/**",
+        "/home/quyenanhpt/catkin_ws/src/navigation-noetic-devel/clear_costmap_recovery/include/**",
+        "/home/quyenanhpt/catkin_ws/src/navigation-noetic-devel/costmap_2d/include/**",
+        "/home/quyenanhpt/catkin_ws/src/diffbot_base/include/**",
+        "/home/quyenanhpt/catkin_ws/src/gazebo_sfm_plugin/include/**",
+        "/home/quyenanhpt/catkin_ws/src/navigation-noetic-devel/global_planner/include/**",
+        "/home/quyenanhpt/catkin_ws/src/kobuki_keyop/include/**",
+        "/home/quyenanhpt/catkin_ws/src/navigation-noetic-devel/map_server/include/**",
+        "/home/quyenanhpt/catkin_ws/src/navigation-noetic-devel/move_base/include/**",
+        "/home/quyenanhpt/catkin_ws/src/navigation-noetic-devel/move_slow_and_clear/include/**",
+        "/home/quyenanhpt/catkin_ws/src/navigation-noetic-devel/nav_core/include/**",
+        "/home/quyenanhpt/catkin_ws/src/navigation-noetic-devel/navfn/include/**",
+        "/home/quyenanhpt/catkin_ws/src/social_navigation/range_sensor_layer/include/**",
+        "/home/quyenanhpt/catkin_ws/src/robot_description/include/**",
+        "/home/quyenanhpt/catkin_ws/src/navigation-noetic-devel/rotate_recovery/include/**",
+        "/home/quyenanhpt/catkin_ws/src/simple_layers/include/**",
+        "/home/quyenanhpt/catkin_ws/src/social_navigation/social_navigation_layers/include/**",
+        "/home/quyenanhpt/catkin_ws/src/srv_client_plugin/include/**",
+        "/home/quyenanhpt/catkin_ws/src/teb_local_planner/include/**",
+        "/home/quyenanhpt/catkin_ws/src/navigation-noetic-devel/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
